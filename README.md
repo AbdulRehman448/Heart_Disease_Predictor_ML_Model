@@ -14,16 +14,6 @@ Data preprocessing and cleaning for health-related datasets Training ML models f
 
 Python 3.x NumPy, Pandas → Data handling Scikit-learn → Machine learning algorithms Matplotlib, Seaborn → Visualization Joblib → Model persistence
 
-📂 Project Structure Heart_Disease_Detector/ │── Heart_Disease_Detector.ipynb # Main Jupyter Notebook │── requirements.txt # List of dependencies │── README.md # Project documentation │── models/ # Saved ML models │── data/ # Dataset (if available)
-
-⚙️ Installation
-
-Clone the repository: git clone https://github.com/your-username/Disease_Detector.git cd Disease_Detector
-
-Create and activate a virtual environment (recommended): python -m venv venv source venv/bin/activate # On Linux/Mac venv\Scripts\activate # On Windows
-
-Install dependencies: pip install -r requirements.txt
-
 ▶️ Usage
 
 Open Colab Notebook:

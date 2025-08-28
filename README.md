@@ -1,4 +1,4 @@
-🩺 Heart Disease Detector Machine Learning Model
+🩺 Heart Disease Detector Machine Learning Model Project
 
 📌 Overview
 

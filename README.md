@@ -28,5 +28,7 @@ Train the model and generate predictions.
 
 👨‍💻 Author
 Abdul Rehman Ali 
+
 💼 LinkedIn - https://www.linkedin.com/in/abdul-rehman-ali/ 
+
 📧 Email: abdulrehman.tp.786@gmail.com

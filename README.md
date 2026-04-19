@@ -26,7 +26,8 @@ Train the model and generate predictions.
 
 🔮 Future Improvements Build a Streamlit Web App for user-friendly interaction Expand dataset for more disease categories Add Deep Learning models for better accuracy Deploy on Cloud (AWS/GCP/Heroku)
 
-👨‍💻 Author
+👨‍💻 Author:
+
 Abdul Rehman Ali 
 
 💼 LinkedIn - https://www.linkedin.com/in/abdul-rehman-ali/ 
